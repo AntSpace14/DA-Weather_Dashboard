@@ -68,6 +68,8 @@ Relationships are defined to support efficient filtering and drill-down analysis
 
 ## 📊 Dashboard Features & Visualizations
 
+![Weather Dashboard](/Report_image.png)
+
 ### 🌡️ Current Weather Overview
 - Temperature with weather icons
 - Location details
